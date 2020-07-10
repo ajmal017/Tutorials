@@ -614,7 +614,7 @@ $strategyMap = [
             'Tampere University' => 'https://arxiv.org/pdf/1901.08280.pdf'
         ],
         'description' => "Applying a Temporal Convolutional Neural Network to forecasting future stock prices.",
-        'tags' => 'Convolutional Neueral Network, Temporal, Equities, Forecasting, Deep Learning'
+        'tags' => 'Convolutional Neural Network, Equities, Forecasting, Deep Learning'
     ]
 ];
 
